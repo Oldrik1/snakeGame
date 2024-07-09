@@ -1,0 +1,28 @@
+.cell{
+  display: inline;
+  border: 2px solid black;
+  width: 40px;
+  height: 40px;
+  margin: 5px;
+
+}
+
+.cell-snake{
+  border: 2px solid black;
+  width: 40px;
+  height: 40px;
+  margin: 5px;
+  background-color: green;
+}
+
+.cell-food{
+  border: 2px solid black;
+  width: 40px;
+  height: 40px;
+  margin: 5px;
+  background-color: yellow;
+}
+
+.row{
+  display: flex;
+}
